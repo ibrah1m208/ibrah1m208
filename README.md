@@ -37,3 +37,4 @@ Python, C/C++, JavaScript, MongoDB/SQLite
 Embedded Systems, QGIS ⚬ Google Earth Engine, abstract mathematics.
 
 ## More coming soon...
+![Red Flip-phone from 君 に 届](./41.gif)

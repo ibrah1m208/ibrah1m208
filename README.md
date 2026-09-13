@@ -25,9 +25,9 @@ As a student, most of my time is spent on working on projects. When I'm not ~~La
 - **Multiplayer Tic-Tac-Toe** - an online game with face-recognition authentication and algorithmic player rankings
 - **Gesture Lock** - a smart lock you unlock by moving it in a hidden pattern, like a geometric signature
 - **RegExpert** - a Regular Expression implementation in python
+- **IRISH**  - My own version of a shell (with MLFQ scheduling) from scratch
 
 ### What I'm working on
-- **IRISH** *(in progress)* - building my own version of a shell (with MLFQ scheduling) from scratch
 - **Smart Bricks** *(in progress)* - small connected devices that sense each other and react automatically
 
 **My Tech Stack** - 
